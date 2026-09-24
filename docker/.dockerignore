@@ -1,0 +1,7 @@
+# Ignore build artifacts and logs
+*.log
+logs/
+
+# Ignore environment-specific overrides
+.env
+docker-compose.override.yml
