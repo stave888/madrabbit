@@ -45,3 +45,7 @@ hs_err_pid*
 *.swp
 *~
 secret/credentials.txt
+.env
+*.env
+secret/
+credentials.txt
